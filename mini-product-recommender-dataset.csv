@@ -1,0 +1,41 @@
+Product ID,Product Name,Description,Category,Price
+1,Smartphone A,"Sleek design, 64GB storage, 12MP camera",Electronics,699.99
+2,Laptop B,"15.6 inch, 8GB RAM, 256GB SSD",Electronics,999.99
+3,Casual Shoes C,"Leather, size 10, brown",Fashion,79.99
+4,Travel Mug D,"Stainless steel, 500ml",Home & Kitchen,14.99
+5,Eau De Parfum E,"Floral scent, 100ml",Beauty,49.99
+6,Backpack F,"Polyester, 20L capacity, black",Fashion,39.99
+7,Bluetooth Speaker G,"10W output, waterproof",Electronics,59.99
+8,Sunglasses H,"UV protection, round frame",Fashion,89.99
+9,Cookware Set I,"Non-stick, 5 pieces",Home & Kitchen,119.99
+10,Wrist Watch J,"Analog, leather strap, water-resistant",Fashion,199.99
+11,Running Sneakers K,"Breathable material, size 9, white",Fashion,109.99
+12,LED Desk Lamp L,"Adjustable brightness, touch control",Home & Kitchen,24.99
+13,Wireless Headphones M,"Over-ear, noise-cancelling",Electronics,129.99
+14,Fantasy Novel N,"Bestselling author, 400 pages",Books,19.99
+15,Organic Green Tea O,"100 bags, antioxidant-rich",Grocery,9.99
+16,Gaming Console P,"4K support, includes 2 controllers",Electronics,399.99
+17,Kitchen Mixer Q,"5-speed, stainless steel attachments",Home & Kitchen,69.99
+18,Jeans R,"Slim fit, blue, size 32",Fashion,49.99
+19,Digital Camera S,"20MP, 5x zoom, compact",Electronics,249.99
+20,Yoga Mat T,"Eco-friendly material, 6mm thickness",Sports,29.99
+21,Board Game U,"Strategy game, 2-6 players",Toys & Games,34.99
+22,Hair Dryer V,"Ionic, 3 heat settings",Beauty,39.99
+23,Plant Pot W,"Ceramic, 8-inch diameter, white",Home & Kitchen,14.99
+24,Sci-fi Movie X,"Blu-ray, director's cut edition",Movies & TV,24.99
+25,Acoustic Guitar Y,"Full size, spruce top",Musical Instruments,199.99
+26,Chocolate Box Z,"Dark chocolate, 24 pieces",Grocery,14.99
+27,Hybrid Bike A1,"21-speed, aluminum frame,",Sports,299.99
+28,Wall Clock B1,,"Home & Kitchen",19.99
+29,Sketchbook C1,"200 pages, acid-free paper",Arts & Crafts,
+30,Outdoor Grill D1,"Propane, 3 burners",,159.99
+31,Vitamin Supplements E1,"Multivitamin, 60 capsules",Health & Personal Care,
+32,,,"Electronics",49.99
+33,Classic Novels Set F1,,Books,44.99
+34,Hand Cream G1,"Moisturizing, 150ml",Beauty,
+35,Sandals H1,"Leather, size 7, ",Fashion,49.99
+36,Stationery Set I1,"Notebooks, pens, and markers",,12.99
+37,Earbuds J1,"Wired, with microphone",Electronics,
+38,,,"Toys & Games",29.99
+39,Pet Food K1,"For adult dogs, chicken flavor",Pets,54.99
+40,Portable Charger L1,"10000mAh, 2 USB ports",,24.99
